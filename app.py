@@ -1,4 +1,4 @@
-from improved-scriptV2.py import TokenManager, APIClient, WebServer
+from improvedscriptV2.py import TokenManager, APIClient, WebServer
 
 # Initialize from directly specified tokens
 token_manager = TokenManager(
