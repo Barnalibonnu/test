@@ -1,0 +1,7 @@
+requests
+requests-toolbelt
+python-dotenv
+tqdm
+keyring
+flask
+gunicorn
