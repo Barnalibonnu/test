@@ -1,4 +1,4 @@
-from mproved-scriptV2.py import TokenManager, APIClient, WebServer
+from improved-scriptV2.py import TokenManager, APIClient, WebServer
 
 def create_app():
     # Initialize from environment variables
